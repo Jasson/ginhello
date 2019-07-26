@@ -3,7 +3,7 @@ package v1
 import (
 
 	"github.com/gin-gonic/gin"
-	"octopus_ad/routers/api/v1/user"
+	"gin_hello/routers/api/v1/user"
 )
 
 // RegisterRouter 注册路由

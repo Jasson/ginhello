@@ -3,8 +3,8 @@ package user
 import (
 	"github.com/gin-gonic/gin"
 	"gopkg.in/mgo.v2/bson"
-	"octopus_ad/common/pkg/e"
-	. "octopus_ad/common/utils"
+	"gin_hello/common/pkg/e"
+	. "gin_hello/common/utils"
 	"time"
 )
 

@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"octopus_ad/common/pkg/e"
+	"gin_hello/common/pkg/e"
 	"time"
 	"github.com/gin-gonic/gin"
 )

@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"octopus_ad/conf"
-	"octopus_ad/routers"
+	"gin_hello/conf"
+	"gin_hello/routers"
 )
 
 // @title yottachain API

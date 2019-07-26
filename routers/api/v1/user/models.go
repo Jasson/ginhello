@@ -5,8 +5,8 @@ import (
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 	"log"
-	"octopus_ad/common/db"
-	"octopus_ad/conf"
+	"gin_hello/common/db"
+	"gin_hello/conf"
 )
 
 var userCollection *mgo.Collection

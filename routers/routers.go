@@ -5,8 +5,8 @@ import (
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-contrib/sessions/redis"
 	"github.com/gin-gonic/gin"
-	"octopus_ad/middlewares"
-	v1 "octopus_ad/routers/api/v1"
+	"gin_hello/middlewares"
+	v1 "gin_hello/routers/api/v1"
 )
 
 // InitRouter 初始化路由

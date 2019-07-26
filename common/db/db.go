@@ -3,7 +3,7 @@ package db
 import (
 	"fmt"
 	"gopkg.in/mgo.v2"
-	"octopus_ad/conf"
+	"gin_hello/conf"
 )
 
 // Connection 数据库
